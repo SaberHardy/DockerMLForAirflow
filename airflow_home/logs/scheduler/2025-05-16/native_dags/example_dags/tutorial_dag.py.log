@@ -1,0 +1,116 @@
+[2025-05-16T06:37:08.929+0100] {processor.py:157} INFO - Started process (PID=8714) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:37:08.929+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-16T06:37:08.930+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:37:08.929+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:37:08.939+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:37:09.090+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:37:09.090+0100] {manager.py:499} INFO - Created Permission View: %s
+[2025-05-16T06:37:09.092+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:37:09.092+0100] {manager.py:499} INFO - Created Permission View: %s
+[2025-05-16T06:37:09.094+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:37:09.094+0100] {manager.py:499} INFO - Created Permission View: %s
+[2025-05-16T06:37:09.094+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:37:09.094+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:37:09.096+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:37:09.096+0100] {dag.py:2963} INFO - Creating ORM DAG for tutorial_dag
+[2025-05-16T06:37:09.097+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:37:09.097+0100] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-16T06:37:09.101+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.172 seconds
+[2025-05-16T06:37:22.051+0100] {processor.py:157} INFO - Started process (PID=8728) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:37:22.052+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-16T06:37:22.052+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:37:22.052+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:37:22.062+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:37:22.074+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:37:22.074+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:37:22.096+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:37:22.096+0100] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-16T06:37:22.101+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2025-05-16T06:38:25.281+0100] {processor.py:157} INFO - Started process (PID=8779) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:38:25.281+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-16T06:38:25.281+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:38:25.281+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:38:25.291+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:38:25.336+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:38:25.336+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:38:25.339+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:38:25.338+0100] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-16T06:38:25.343+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.063 seconds
+[2025-05-16T06:39:21.007+0100] {processor.py:157} INFO - Started process (PID=8833) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:39:21.007+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-16T06:39:21.008+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:39:21.008+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:39:21.018+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:39:21.062+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:39:21.062+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:39:21.064+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:39:21.064+0100] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-16T06:39:21.069+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.062 seconds
+[2025-05-16T06:40:15.627+0100] {processor.py:157} INFO - Started process (PID=8894) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:40:15.627+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-16T06:40:15.628+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:40:15.627+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:40:15.638+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:40:15.683+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:40:15.683+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:40:15.685+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:40:15.685+0100] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-16T06:40:15.690+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.063 seconds
+[2025-05-16T06:41:14.365+0100] {processor.py:157} INFO - Started process (PID=8942) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:41:14.366+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-16T06:41:14.366+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:41:14.366+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:41:14.376+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:41:14.419+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:41:14.419+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:41:14.422+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:41:14.422+0100] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-16T06:41:14.426+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.061 seconds
+[2025-05-16T06:42:14.825+0100] {processor.py:157} INFO - Started process (PID=8995) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:42:14.825+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-16T06:42:14.826+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:42:14.826+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:42:14.836+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:42:14.879+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:42:14.879+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:42:14.882+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:42:14.882+0100] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-16T06:42:14.886+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.061 seconds
+[2025-05-16T06:43:11.852+0100] {processor.py:157} INFO - Started process (PID=9044) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:43:11.852+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-16T06:43:11.853+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:43:11.853+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:43:11.862+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:43:11.907+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:43:11.907+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:43:11.910+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:43:11.910+0100] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-16T06:43:11.914+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.063 seconds
+[2025-05-16T06:44:08.990+0100] {processor.py:157} INFO - Started process (PID=9100) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:44:08.991+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-16T06:44:08.991+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:44:08.991+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:44:09.001+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:44:09.045+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:44:09.045+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:44:09.047+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:44:09.047+0100] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-16T06:44:09.052+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.061 seconds
+[2025-05-16T06:45:07.854+0100] {processor.py:157} INFO - Started process (PID=9150) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:45:07.854+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-16T06:45:07.855+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:45:07.855+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:45:07.864+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:45:07.908+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:45:07.908+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:45:07.911+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:45:07.911+0100] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-16T06:45:07.915+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.062 seconds
+[2025-05-16T06:46:04.543+0100] {processor.py:157} INFO - Started process (PID=9216) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:46:04.543+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-16T06:46:04.544+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:46:04.544+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:46:04.553+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:46:04.598+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:46:04.597+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:46:04.600+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:46:04.600+0100] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-16T06:46:04.605+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.062 seconds
+[2025-05-16T06:47:04.348+0100] {processor.py:157} INFO - Started process (PID=9265) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:47:04.348+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-16T06:47:04.349+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:47:04.349+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:47:04.360+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:47:04.412+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:47:04.412+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:47:04.414+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:47:04.414+0100] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-16T06:47:04.419+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.072 seconds
+[2025-05-16T06:48:00.968+0100] {processor.py:157} INFO - Started process (PID=9314) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:48:00.968+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-16T06:48:00.969+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:48:00.969+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:48:00.978+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:48:01.022+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:48:01.022+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:48:01.024+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:48:01.024+0100] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-16T06:48:01.029+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.061 seconds
+[2025-05-16T06:48:57.332+0100] {processor.py:157} INFO - Started process (PID=9361) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:48:57.332+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-16T06:48:57.333+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:48:57.333+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:48:57.343+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:48:57.386+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:48:57.386+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:48:57.389+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:48:57.389+0100] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-16T06:48:57.393+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.061 seconds
+[2025-05-16T06:49:56.077+0100] {processor.py:157} INFO - Started process (PID=9412) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:49:56.077+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-16T06:49:56.078+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:49:56.078+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:49:56.088+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:49:56.132+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:49:56.132+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:49:56.134+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:49:56.134+0100] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-16T06:49:56.139+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.062 seconds
+[2025-05-16T06:50:55.105+0100] {processor.py:157} INFO - Started process (PID=9469) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:50:55.105+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-05-16T06:50:55.106+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:50:55.106+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:50:55.116+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-05-16T06:50:55.160+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:50:55.160+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:50:55.163+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:50:55.163+0100] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-05-16T06:50:55.167+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.063 seconds

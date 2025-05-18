@@ -1,0 +1,109 @@
+[2025-05-16T06:37:44.027+0100] {processor.py:157} INFO - Started process (PID=8747) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:37:44.028+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-16T06:37:44.028+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:37:44.028+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:37:44.036+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:37:44.192+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:37:44.192+0100] {manager.py:499} INFO - Created Permission View: %s
+[2025-05-16T06:37:44.194+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:37:44.194+0100] {manager.py:499} INFO - Created Permission View: %s
+[2025-05-16T06:37:44.195+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:37:44.195+0100] {manager.py:499} INFO - Created Permission View: %s
+[2025-05-16T06:37:44.195+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:37:44.195+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:37:44.198+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:37:44.198+0100] {dag.py:2963} INFO - Creating ORM DAG for example_sensors
+[2025-05-16T06:37:44.198+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:37:44.198+0100] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-16T06:37:44.202+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.175 seconds
+[2025-05-16T06:38:44.621+0100] {processor.py:157} INFO - Started process (PID=8803) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:38:44.621+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-16T06:38:44.622+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:38:44.622+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:38:44.632+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:38:44.686+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:38:44.686+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:38:44.689+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:38:44.689+0100] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-16T06:38:44.693+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.073 seconds
+[2025-05-16T06:39:40.898+0100] {processor.py:157} INFO - Started process (PID=8850) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:39:40.898+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-16T06:39:40.899+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:39:40.899+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:39:40.907+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:39:40.956+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:39:40.956+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:39:40.958+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:39:40.958+0100] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-16T06:39:40.963+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.065 seconds
+[2025-05-16T06:40:40.094+0100] {processor.py:157} INFO - Started process (PID=8914) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:40:40.094+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-16T06:40:40.095+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:40:40.095+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:40:40.103+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:40:40.151+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:40:40.151+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:40:40.153+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:40:40.153+0100] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-16T06:40:40.158+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.064 seconds
+[2025-05-16T06:41:40.185+0100] {processor.py:157} INFO - Started process (PID=8965) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:41:40.185+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-16T06:41:40.186+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:41:40.186+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:41:40.194+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:41:40.242+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:41:40.242+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:41:40.244+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:41:40.244+0100] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-16T06:41:40.249+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.064 seconds
+[2025-05-16T06:42:39.128+0100] {processor.py:157} INFO - Started process (PID=9016) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:42:39.128+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-16T06:42:39.128+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:42:39.128+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:42:39.137+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:42:39.185+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:42:39.185+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:42:39.187+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:42:39.187+0100] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-16T06:42:39.192+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.064 seconds
+[2025-05-16T06:43:35.113+0100] {processor.py:157} INFO - Started process (PID=9064) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:43:35.113+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-16T06:43:35.113+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:43:35.113+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:43:35.122+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:43:35.170+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:43:35.170+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:43:35.173+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:43:35.173+0100] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-16T06:43:35.177+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.065 seconds
+[2025-05-16T06:44:32.451+0100] {processor.py:157} INFO - Started process (PID=9120) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:44:32.452+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-16T06:44:32.452+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:44:32.452+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:44:32.460+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:44:32.509+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:44:32.509+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:44:32.511+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:44:32.511+0100] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-16T06:44:32.516+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.065 seconds
+[2025-05-16T06:45:30.225+0100] {processor.py:157} INFO - Started process (PID=9185) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:45:30.225+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-16T06:45:30.226+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:45:30.226+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:45:30.234+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:45:30.281+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:45:30.281+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:45:30.284+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:45:30.284+0100] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-16T06:45:30.288+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.064 seconds
+[2025-05-16T06:46:29.107+0100] {processor.py:157} INFO - Started process (PID=9236) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:46:29.108+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-16T06:46:29.108+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:46:29.108+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:46:29.116+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:46:29.164+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:46:29.164+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:46:29.167+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:46:29.167+0100] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-16T06:46:29.171+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.064 seconds
+[2025-05-16T06:47:27.272+0100] {processor.py:157} INFO - Started process (PID=9285) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:47:27.272+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-16T06:47:27.273+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:47:27.273+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:47:27.281+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:47:27.329+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:47:27.329+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:47:27.332+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:47:27.331+0100] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-16T06:47:27.336+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.065 seconds
+[2025-05-16T06:48:23.840+0100] {processor.py:157} INFO - Started process (PID=9333) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:48:23.840+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-16T06:48:23.841+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:48:23.841+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:48:23.849+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:48:23.897+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:48:23.897+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:48:23.899+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:48:23.899+0100] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-16T06:48:23.904+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.064 seconds
+[2025-05-16T06:49:24.217+0100] {processor.py:157} INFO - Started process (PID=9386) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:49:24.218+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-16T06:49:24.218+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:49:24.218+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:49:24.226+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:49:24.274+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:49:24.274+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:49:24.277+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:49:24.277+0100] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-16T06:49:24.281+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.064 seconds
+[2025-05-16T06:50:23.402+0100] {processor.py:157} INFO - Started process (PID=9439) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:50:23.402+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-16T06:50:23.403+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:50:23.403+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:50:23.411+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:50:23.459+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:50:23.459+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:50:23.462+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:50:23.462+0100] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-16T06:50:23.466+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.065 seconds
+[2025-05-16T06:51:21.076+0100] {processor.py:157} INFO - Started process (PID=9492) to work on /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:51:21.076+0100] {processor.py:829} INFO - Processing file /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-05-16T06:51:21.077+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:51:21.077+0100] {dagbag.py:536} INFO - Filling up the DagBag from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:51:21.085+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2025-05-16T06:51:21.134+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:51:21.133+0100] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-05-16T06:51:21.136+0100] {logging_mixin.py:154} INFO - [2025-05-16T06:51:21.136+0100] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-05-16T06:51:21.141+0100] {processor.py:179} INFO - Processing /Users/saber/airflow_project/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.065 seconds
